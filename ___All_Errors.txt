@@ -1,0 +1,41 @@
+CorrelationId: b7492e07-5347-472c-87c4-f8183c754d01
+UTC DateTime: 11/08/2022 16:06:25
+
+The following files/folders have not been downloaded
+0. hello-world/node_modules/tslib
+1. hello-world/node_modules/tsutils
+2. hello-world/node_modules/tweetnacl
+3. hello-world/node_modules/type-check
+4. hello-world/node_modules/type-fest
+5. hello-world/node_modules/typescript
+6. hello-world/node_modules/undefsafe
+7. hello-world/node_modules/unique-string
+8. hello-world/node_modules/unzip-response
+9. hello-world/node_modules/update-notifier
+10. hello-world/node_modules/uri-js
+11. hello-world/node_modules/url-parse-lax
+12. hello-world/node_modules/util-deprecate
+13. hello-world/node_modules/uuid
+14. hello-world/node_modules/v8-compile-cache
+15. hello-world/node_modules/validate-npm-package-license
+16. hello-world/node_modules/vasync
+17. hello-world/node_modules/verror
+18. hello-world/node_modules/wbuf
+19. hello-world/node_modules/which
+20. hello-world/node_modules/which-module
+21. hello-world/node_modules/widest-line
+22. hello-world/node_modules/word-wrap
+23. hello-world/node_modules/wrap-ansi
+24. hello-world/node_modules/wrappy
+25. hello-world/node_modules/write
+26. hello-world/node_modules/write-file-atomic
+27. hello-world/node_modules/ws
+28. hello-world/node_modules/xdg-basedir
+29. hello-world/node_modules/y18n
+30. hello-world/node_modules/yallist
+31. hello-world/node_modules/yargs
+32. hello-world/node_modules/yargs-parser
+33. hello-world/public
+34. hello-world/src
+35. hello-world/.editorconfig
+36. hello-world/.eslintrc.js
